@@ -168,7 +168,7 @@ public class TravelProgram {
 		System.out.printf("%-30s\n", "");
 		System.out.printf("%-30s%-1.2f\n", "Total Cost: ", totalCost);
 		//farewell//
-		System.out.printf("%-30s\n", "");
+		System.out.printf("%-30s\n", "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
 		System.out.printf("%-30s%-1s%-1s\n", "Thank you for using Travel Planner ", userName, "!");
 		System.out.printf("%-30s\n", "Have a great day! We hope you enjoy your trip!");
 
